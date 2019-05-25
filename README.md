@@ -1,6 +1,7 @@
 # Apuntes de la Licenciatura en Derecho UNAM
 
-[Teoría General del Estado](TGEdo/index.md)
+- [Teoría General del Estado](TGEdo/index.md)
+- [Derecho Económico](TEcon/index.md)
 
 
 
